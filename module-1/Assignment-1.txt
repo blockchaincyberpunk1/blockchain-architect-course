@@ -1,0 +1,62 @@
+Blockchain Architect Course
+Assignment 1: Blockchain Basics Quiz
+
+Objective: Assess students' understanding of fundamental blockchain concepts through a quiz.
+
+Instructions:
+
+In this assignment, students will have the opportunity to demonstrate their knowledge of basic blockchain concepts. The quiz is designed to evaluate their comprehension of blockchain's fundamental principles, including its definition, key features, and its role in decentralization. The quiz will consist of both multiple-choice and short-answer questions.
+
+Quiz Questions:
+
+Section 1: Multiple-Choice Questions (Choose the correct option)
+
+What is a blockchain?
+
+a) A type of cryptocurrency
+b) A digital ledger technology for recording transactions
+c) A decentralized computer network
+d) A physical chain of blocks
+What is the primary purpose of a blockchain?
+
+a) Decentralization
+b) Data storage
+c) Data encryption
+d) Centralization
+Which of the following is NOT a characteristic of blockchain technology?
+
+a) Transparency
+b) Immutability
+c) Centralization
+d) Security
+What is a "block" in a blockchain?
+
+a) A group of interconnected computers
+b) A collection of digital coins
+c) A record of multiple transactions
+d) A type of cryptocurrency wallet
+How are transactions verified in a blockchain network?
+
+a) By a central authority
+b) Through a democratic voting process
+c) By miners solving complex mathematical problems
+d) By the owner of the blockchain network
+Section 2: Short-Answer Questions (Provide brief explanations)
+
+Define decentralization in the context of blockchain technology.
+
+Explain the concept of immutability as it relates to blockchain.
+
+Describe the role of miners in the blockchain network.
+
+Assessment:
+
+The quiz will be assessed based on the following criteria:
+
+Correctness: Are the answers provided by the students accurate?
+
+Comprehension: Do the students demonstrate an understanding of blockchain basics, as evidenced by their short-answer responses?
+
+Clarity of Explanations: Are the short-answer explanations clear and concise?
+
+Completion: Did the students answer all questions in the quiz?

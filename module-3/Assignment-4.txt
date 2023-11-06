@@ -1,0 +1,35 @@
+Interacting with Smart Contracts (Code Challenge)
+
+Objective: Teach students how to interact with deployed smart contracts.
+
+Instructions:
+
+In this assignment, students will apply their knowledge of smart contracts by writing code to interact with a deployed smart contract. They will gain hands-on experience with common blockchain operations, such as transferring tokens or invoking contract functions.
+
+Requirements:
+
+Smart Contract Selection:
+
+Provide students with a deployed smart contract to interact with. You can use a well-known contract, such as an ERC-20 token contract, or a custom contract created for this assignment.
+Interacting with the Contract:
+
+Instruct students to write code in a programming language of their choice (e.g., JavaScript, Python, or Solidity) to perform specific interactions with the chosen smart contract. For example, they can:
+Transfer tokens from one address to another.
+Call a contract function that updates contract state.
+Query and display contract data, such as token balances.
+Any other relevant interaction that demonstrates their understanding of smart contract interaction.
+Code Submission:
+
+Task students with submitting their code, which should be well-documented and annotated to explain the purpose of each code segment.
+They should also include any dependencies or libraries used in their code.
+Transaction History:
+
+Instruct students to provide a transaction history or log demonstrating the interactions they performed with the smart contract. This can be achieved by submitting transaction hashes, links to blockchain explorers, or any other method that validates their interactions.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Code Quality: Is the code well-structured, documented, and easy to understand?
+Correctness: Does the code successfully interact with the smart contract, and are the interactions accurate?
+Annotation: Did students provide adequate comments and explanations in their code?
+Transaction History: Did students demonstrate their interactions with the contract through transaction records or other verifiable methods?

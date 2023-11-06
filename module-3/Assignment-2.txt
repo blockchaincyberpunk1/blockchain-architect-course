@@ -1,0 +1,43 @@
+Deploying Smart Contracts (Hands-On)
+
+Objective: Familiarize students with deploying smart contracts on different platforms.
+
+Instructions:
+
+In this assignment, students will gain practical experience deploying the same smart contract on multiple blockchain platforms. By comparing the deployment processes, they will develop a better understanding of the nuances between different blockchain ecosystems.
+
+Requirements:
+
+Smart Contract Selection:
+
+Provide students with a specific smart contract (e.g., a token contract) that they will deploy across multiple blockchain platforms.
+Platform Selection:
+
+Instruct students to choose at least two different blockchain platforms for deployment. Examples include Ethereum, Binance Smart Chain, and others.
+Deployment Process:
+
+Task students with documenting the entire deployment process for each selected platform. They should include the following steps:
+Setting up the development environment for each platform.
+Writing any platform-specific code or adjustments required.
+Deploying the smart contract on each blockchain.
+Interacting with the deployed contracts (e.g., sending transactions).
+Any challenges or differences encountered during deployment.
+Comparison:
+
+Ask students to write a detailed comparison of their deployment experiences across the chosen platforms.
+They should highlight key differences, similarities, and any challenges faced during deployment.
+Encourage students to provide insights into the strengths and weaknesses of each platform for smart contract deployment.
+Submission:
+
+Require students to submit a comprehensive document or report that includes:
+Documentation of the deployment process for each platform.
+A clear comparison of the experiences, challenges, and observations.
+Any code or configuration files used during deployment.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Documentation Quality: Is the documentation of the deployment process clear, detailed, and well-organized?
+Comparison Clarity: Did students provide a clear and insightful comparison of their deployment experiences on different platforms?
+Observations: Did students accurately identify and explain differences and challenges encountered during deployment?
+Insights: Did students offer meaningful insights into the strengths and weaknesses of each blockchain platform for smart contract deployment?

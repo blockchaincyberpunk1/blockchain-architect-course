@@ -1,0 +1,40 @@
+Implementation of Permissioned Blockchain (Coding Project)
+
+Objective: Challenge students to implement a permissioned blockchain network.
+
+Instructions:
+
+Permissioned blockchain networks are designed for controlled access, making them suitable for various enterprise applications. In this assignment, students will gain hands-on experience by implementing a permissioned blockchain network using a blockchain framework such as Hyperledger Fabric or Quorum.
+
+Requirements:
+
+Select a Blockchain Framework:
+
+Choose a blockchain framework that supports permissioned blockchain networks. Popular choices include Hyperledger Fabric, Quorum, or Corda.
+Setup and Configuration:
+
+Instruct students to set up the chosen blockchain framework on their development environment. They should configure the necessary components, such as ordering nodes, peer nodes, and membership services.
+Explain the importance of access control and the need for proper identity management within permissioned networks.
+Permissioned Nodes:
+
+Assign students the task of creating multiple permissioned nodes (participants) in the network. Each node should have a distinct identity.
+Instruct them to configure access permissions, defining which nodes can participate in transactions and smart contracts.
+Access Control Rules:
+
+Require students to establish access control rules that determine which nodes can read and write data on the blockchain ledger.
+Encourage them to consider role-based access control (RBAC) and fine-grained access control to meet specific use case requirements.
+Transaction Demonstration:
+
+Instruct students to demonstrate transactions within the permissioned blockchain network. They should initiate transactions, record them on the ledger, and verify that access control rules are enforced.
+Documentation:
+
+Ask students to document the setup process, configurations, access control rules, and transaction demonstrations in a detailed report.
+Assessment:
+
+Evaluate the students' permissioned blockchain implementations based on the following criteria:
+
+Setup and Configuration: Assess the completeness and accuracy of the blockchain framework setup and configuration.
+Permissioned Nodes: Check if students have successfully created multiple permissioned nodes with distinct identities.
+Access Control Rules: Evaluate the effectiveness of the defined access control rules in regulating node participation.
+Transaction Demonstration: Ensure that students can initiate transactions within the network and that access control rules are enforced.
+Documentation: Assess the quality and completeness of the documentation, which should provide clear instructions and explanations of the implemented permissioned blockchain network.

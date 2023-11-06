@@ -1,0 +1,35 @@
+Solidity Smart Contract Basics (Coding Exercise)
+
+Objective: Introduce students to Solidity and smart contract development.
+
+Instructions:
+
+In this assignment, students will get hands-on experience with Solidity, the programming language for Ethereum smart contracts. They will create a basic smart contract and deploy it on a testnet, gaining practical knowledge of smart contract development.
+
+Requirements:
+
+Smart Contract Idea:
+
+Provide students with a simple smart contract idea. For example, you can suggest creating a basic token contract.
+Solidity Coding:
+
+Task students with writing Solidity code to implement the smart contract based on the provided idea.
+They should include essential functions and variables required for the contract to function correctly.
+Deployment on Testnet:
+
+Instruct students to deploy the smart contract on a testnet (e.g., Rinkeby).
+They should use a development environment like Remix or another appropriate tool for deploying and interacting with smart contracts.
+Submission:
+
+Require students to submit the following for evaluation:
+The Solidity code of their smart contract.
+The contract address on the testnet where it was deployed.
+At least one test transaction demonstrating the contract's functionality (e.g., a transfer of tokens).
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Correctness of Code: Is the Solidity code correctly implemented, following the provided smart contract idea?
+Deployment and Interaction: Did students successfully deploy the contract on a testnet and provide evidence of at least one test transaction?
+Code Quality: Is the code well-structured and easy to understand?
+Compliance: Does the smart contract comply with Ethereum's standards and best practices?

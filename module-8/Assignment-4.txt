@@ -1,0 +1,33 @@
+Blockchain Trend Analysis (Research and Report)
+
+Objective: Challenge students to stay informed about current blockchain trends and technologies, enabling them to adapt and make informed decisions in their future blockchain architecture projects.
+
+Instructions:
+
+In this assignment, students will be tasked with researching and analyzing recent blockchain trends, emerging technologies, or new protocols. They will need to prepare a comprehensive report summarizing their findings. The objective is to identify these trends, assess their potential impact on future blockchain architectures, and provide recommendations for adapting to these trends.
+
+Requirements:
+
+Topic Selection:
+
+Instruct students to choose a specific blockchain trend, technology, or protocol to research. Examples include blockchain scalability solutions, DeFi protocols, Layer 2 scaling solutions, or blockchain interoperability projects.
+Research and Analysis:
+
+Task students with conducting in-depth research on their chosen topic. They should gather information from reputable sources, academic papers, news articles, and official project documentation.
+Encourage students to analyze the trend or technology critically. They should assess its current state, strengths, weaknesses, and potential use cases.
+Report Preparation:
+
+Require students to write a well-structured report that includes the following components:
+An introduction to the chosen blockchain trend or technology.
+A detailed explanation of the trend, technology, or protocol.
+An analysis of its potential impact on future blockchain architectures.
+Recommendations for blockchain architects and developers on how to adapt to this trend.
+Proper citations and references to the sources used.
+Assessment:
+
+Evaluate students' reports on blockchain trend analysis based on the following criteria:
+
+Depth of Analysis: Assess the thoroughness of their research and analysis.
+Clarity and Structure: Evaluate the organization and clarity of the report.
+Quality of Recommendations: Consider the practicality and relevance of the recommendations.
+Use of References: Ensure that students properly cite and reference their sources.

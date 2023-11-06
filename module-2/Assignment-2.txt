@@ -1,0 +1,44 @@
+Digital Signature Implementation (Code Challenge)
+
+Objective: Apply digital signature techniques in blockchain development.
+
+Instructions:
+
+In this assignment, students will delve into digital signatures, a critical aspect of blockchain security. Digital signatures ensure the authenticity and integrity of transactions and data within a blockchain. By completing this code challenge, students will gain hands-on experience implementing digital signatures using asymmetric cryptography (e.g., RSA).
+
+Requirements:
+
+Digital Signature Implementation:
+
+Task students with implementing a basic digital signature system in a programming language of their choice.
+Instruct them to create a program that can perform the following functions:
+Generate a key pair (public and private keys).
+Sign data using the private key.
+Verify signatures using the corresponding public key.
+Asymmetric Cryptography (e.g., RSA):
+
+Encourage students to use an asymmetric cryptographic algorithm like RSA for the implementation.
+They should understand the mathematical principles behind RSA and apply them in their code.
+Code Explanations:
+
+Encourage students to add comments and explanations within their code.
+Comments should clarify the steps involved in key generation, signing, and signature verification.
+Students should provide insights into the cryptographic principles applied.
+Security Considerations:
+
+Emphasize the importance of security in their implementation.
+Ensure students understand the significance of keeping the private key secure and not sharing it.
+Testing:
+
+Students should thoroughly test their code with various scenarios to demonstrate its correctness and security.
+Submission:
+
+Collect students' code submissions and test cases.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+
+Correctness: Is the digital signature implementation correct, and does it accurately sign and verify data?
+Comments and Explanations: Are there clear comments and explanations demonstrating an understanding of digital signatures and the chosen cryptographic algorithm?
+Security: Have students considered security implications, such as private key protection and the prevention of unauthorized signature generation?
+Testing: Is there evidence of thorough testing with various test cases?

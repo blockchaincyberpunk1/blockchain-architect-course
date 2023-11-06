@@ -1,0 +1,33 @@
+Contribution to Open-Source Blockchain Projects (Coding or Documentation Contribution)
+
+Objective: Challenge students to actively participate in open-source blockchain projects, gaining practical experience and making meaningful contributions to the blockchain community.
+
+Instructions:
+
+In this assignment, students will have the opportunity to contribute to open-source blockchain projects. Open-source contributions are valuable for both personal growth and the blockchain community as a whole. Students can choose from a range of contributions, including coding improvements, bug fixes, documentation updates, or feature suggestions.
+
+Requirements:
+
+Project Selection:
+
+Instruct students to identify and choose a suitable open-source blockchain project to contribute to. They can select from well-known projects like Ethereum, Hyperledger, or any other blockchain-related open-source project of their interest.
+Contribution:
+
+Task students with making a meaningful and documented contribution to the selected project. Contributions can include but are not limited to:
+Coding Improvements: Fixing bugs, optimizing code, or implementing new features.
+Documentation Updates: Improving project documentation, writing tutorials, or clarifying existing documentation.
+Feature Suggestions: Proposing new features or enhancements with a well-structured rationale.
+Documentation of Contributions:
+
+Students must provide clear evidence of their contributions. Depending on the nature of their contribution, this may include:
+For coding contributions: Providing links to code commits, pull requests, or patches.
+For documentation contributions: Showing before-and-after examples of documentation changes.
+For feature suggestions: Explaining the proposed feature and its potential benefits.
+Assessment:
+
+Evaluate students' contributions to open-source blockchain projects based on the following criteria:
+
+Impact: Assess the significance of the contribution within the context of the selected project.
+Quality: Evaluate the quality of the code, documentation, or feature suggestion.
+Documentation: Ensure that students provide clear evidence of their contributions.
+Community Feedback: Consider any feedback or response from the open-source project's maintainers or community.

@@ -1,0 +1,34 @@
+Blockchain Architecture Analysis (Research and Report)
+
+Objective: Explore different blockchain architectural patterns.
+
+Instructions:
+
+In this assignment, students will conduct in-depth research on various blockchain architectural patterns. They will write a comprehensive report that explores the differences between public and private blockchains, permissioned and permissionless networks, and multi-chain solutions. This assignment encourages students to analyze real-world use cases and assess the advantages and disadvantages of each architectural pattern.
+
+Requirements:
+
+Research Topics:
+
+Assign students to investigate the following blockchain architectural patterns:
+Public Blockchains vs. Private Blockchains
+Permissioned Networks vs. Permissionless Networks
+Single-Chain vs. Multi-Chain Solutions
+Use Case Examples:
+
+Instruct students to provide real-world examples and use cases for each architectural pattern. These examples should illustrate how each pattern is applied in different industries or scenarios.
+Analysis of Pros and Cons:
+
+Task students with analyzing the advantages and disadvantages of each architectural pattern. They should consider factors like scalability, security, decentralization, and governance.
+Report Writing:
+
+Ask students to compile their research findings and analysis into a well-structured report.
+The report should include clear headings, subheadings, and citations for sources used.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Research Depth: Did students thoroughly research and analyze the selected blockchain architectural patterns?
+Use Case Illustration: Did students provide compelling real-world examples and use cases for each pattern?
+Analysis Quality: Did students offer a well-rounded analysis of the pros and cons of each architectural pattern?
+Report Clarity: Is the report well-organized, well-written, and free from grammatical errors?

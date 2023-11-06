@@ -1,0 +1,49 @@
+Integration with Legacy Systems (Integration Project)
+
+Objective: Teach students how to integrate blockchain with legacy systems.
+
+Instructions:
+
+Integrating blockchain technology with legacy systems is a complex yet crucial aspect of blockchain architecture. In this assignment, students will gain hands-on experience by designing and implementing an integration solution that bridges a legacy system with a blockchain network.
+
+Requirements:
+
+Legacy System Selection:
+
+Provide students with access to a specific legacy system. The legacy system can be a centralized database, an enterprise application, or any other legacy technology.
+Blockchain Network:
+
+Ensure that students have access to a blockchain network for this assignment. You can use a local blockchain emulator or a testnet.
+Integration Solution:
+
+Assign each student or group of students the task of designing and implementing an integration solution that connects the legacy system with the blockchain network.
+Instruct them to consider the following aspects when designing their integration solution:
+Data synchronization: How will data be transferred between the legacy system and the blockchain, ensuring consistency and accuracy?
+Authentication and access control: How will users and the legacy system authenticate and interact with the blockchain?
+Data flow: How will data flow between the legacy system and the blockchain? What triggers or events will initiate data transfer?
+Implementation:
+
+Encourage students to implement their integration solutions using appropriate technologies and programming languages. For example, they might use APIs, middleware, or smart contracts for integration.
+Provide guidance and resources on how to establish connections between the legacy system and the blockchain.
+Documentation:
+
+Task students with creating comprehensive documentation that explains their integration solution. The documentation should include:
+An overview of the legacy system and the blockchain network.
+Detailed step-by-step instructions on how to set up and configure the integration components.
+Code samples or snippets showcasing the integration implementation.
+Explanations of how data synchronization, authentication, and data flow are managed.
+Testing:
+
+Require students to test their integration solution thoroughly to ensure that data synchronization and authentication processes work as intended.
+Presentation:
+
+Ask students to present their integration solutions to the class. They should explain their design choices, implementation details, and demonstrate how data flows between the legacy system and the blockchain.
+Assessment:
+
+Evaluate the students' integration solutions based on the following criteria:
+
+Effectiveness: Assess whether the implemented integration solution successfully connects the legacy system with the blockchain network, ensuring data synchronization and authentication.
+Adherence to Best Practices: Check whether students follow best practices for integration and security.
+Documentation Quality: Review the completeness and clarity of the documentation, ensuring that it provides sufficient instructions and explanations.
+Testing: Verify that the integration solution has been thoroughly tested and functions as expected.
+Presentation: Consider the quality of the presentation, including how well students communicate their design choices and implementation details.

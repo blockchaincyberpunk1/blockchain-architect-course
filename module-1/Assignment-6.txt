@@ -1,0 +1,58 @@
+Blockchain Platform Comparison (Research and Presentation)
+
+Objective: Compare and contrast different blockchain platforms.
+
+Instructions:
+
+In this assignment, students will explore and analyze various blockchain platforms, such as Ethereum, Hyperledger Fabric, Binance Smart Chain, or other popular options. The goal is to create a comparative presentation that provides a detailed comparison of these platforms, including their features, consensus mechanisms, and development languages. By undertaking this task, students will gain a deeper understanding of different blockchain technologies and be better equipped to make informed decisions when selecting a platform for specific projects.
+
+Requirements:
+
+Platform Selection:
+
+Assign students to research and analyze multiple blockchain platforms. You can provide a list of platforms to choose from or allow them to select platforms of interest.
+Research and Analysis:
+
+Instruct students to conduct comprehensive research on their chosen blockchain platforms.
+Encourage them to delve into various aspects, including but not limited to:
+Platform features and capabilities.
+Consensus mechanisms and their implications.
+Development languages and tools supported.
+Community and ecosystem surrounding the platform.
+Notable projects and use cases built on the platform.
+Presentation Content:
+
+Require students to create a presentation that covers the following areas for each blockchain platform they analyze:
+Platform overview, including its history and objectives.
+Core features and strengths.
+Consensus mechanism(s) and their significance.
+Development languages and tools.
+Pros and cons of the platform.
+Examples of real-world projects or applications built on the platform.
+Comparison and Decision Factors:
+
+Encourage students to include a section where they compare the analyzed platforms.
+Discuss the factors that one should consider when selecting a blockchain platform for a particular project or use case.
+Include insights on which platform might be most suitable for different types of applications.
+Presentation Format:
+
+The presentation can be in the form of slides, videos, or other media, depending on students' preferences and the course's format.
+Delivery:
+
+Students should deliver their presentations in class, virtually, or through pre-recorded videos, depending on the course setup.
+Assessment:
+
+Assess the presentations based on the depth of analysis, clarity, and the ability to provide valuable insights for decision-making when choosing a blockchain platform.
+Assessment Criteria:
+
+The "Blockchain Platform Comparison (Research and Presentation)" assignment will be assessed based on the following criteria:
+
+Content: Is the presentation content comprehensive, addressing all required aspects of the blockchain platforms?
+
+Clarity: Is the presentation well-structured, easy to follow, and effectively conveys key information?
+
+Depth of Analysis: Does the analysis of each blockchain platform demonstrate a deep understanding of its features and implications?
+
+Comparison: Are platforms effectively compared and insights provided on their suitability for different use cases?
+
+Relevance: Are the factors to consider when choosing a blockchain platform well-explained and relevant to practical decision-making?

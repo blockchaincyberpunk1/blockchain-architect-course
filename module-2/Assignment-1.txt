@@ -1,0 +1,40 @@
+Implementing Hash Functions (Code Challenge)
+
+Objective: Reinforce understanding of cryptographic hashing techniques.
+
+Instructions:
+
+In this assignment, students will apply their knowledge of cryptographic hashing by implementing a cryptographic hash function. Cryptographic hash functions are fundamental to blockchain technology, ensuring data integrity and security. By completing this coding challenge, students will deepen their understanding of hash functions and their role in blockchain.
+
+Requirements:
+
+Hash Function Implementation:
+
+Provide students with a coding challenge to implement a cryptographic hash function (e.g., SHA-256) in a programming language of their choice.
+Instruct them to create a program that takes input data (e.g., a string) and produces a cryptographic hash of the data.
+Encourage students to implement the hash function from scratch, without relying on built-in library functions.
+Hash Verification:
+
+Ask students to extend their program to include a verification mechanism.
+The program should allow users to input data and a hash. It should then verify whether the hash matches the provided data.
+Comments and Explanations:
+
+Encourage students to add comments and explanations to their code.
+Comments should clarify how the hash function works and provide insights into the cryptographic principles behind it.
+Efficiency Consideration:
+
+While correctness is essential, students should also consider the efficiency of their hash function implementation.
+Testing:
+
+Students should thoroughly test their code with various input data to ensure its correctness and reliability.
+Submission:
+
+Collect students' code submissions and test cases.
+Assessment:
+
+Evaluate students' submissions based on the following criteria:
+
+Correctness: Is the hash function implementation correct, and does it produce accurate hash values?
+Verification: Does the program correctly verify hashes against input data?
+Comments and Explanations: Are there clear comments and explanations that demonstrate an understanding of cryptographic hashing principles?
+Efficiency: Is the code implemented efficiently, and does it perform well with large data inputs?

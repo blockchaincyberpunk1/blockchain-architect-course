@@ -1,0 +1,42 @@
+Exploring Blockchain Types (Research and Report)
+
+Objective: Familiarize students with different types of blockchains and their characteristics.
+
+Instructions:
+
+In this assignment, students will explore and compare different types of blockchains: public, private, and consortium. They will conduct research to understand the unique characteristics, advantages, and common use cases of each blockchain type. The goal is to provide students with insights into when and where each type is most suitable.
+
+Requirements:
+
+Blockchain Types Research:
+
+Assign each student one of the following blockchain types: public, private, or consortium.
+Instruct students to research and compile information about their assigned blockchain type. This should include details on:
+Definition and characteristics.
+Consensus mechanisms commonly used.
+Level of decentralization.
+Typical applications and use cases.
+Advantages and disadvantages.
+Notable real-world examples.
+Report Creation:
+
+Ask students to create a comprehensive report summarizing their findings. The report should be well-structured and organized.
+Presentation (Optional):
+
+Optionally, students can present their research findings to the class. This can promote discussion and a deeper understanding of blockchain types.
+Peer Review:
+
+Encourage students to review and provide feedback on each other's reports. Peer review can help identify different perspectives and ensure the accuracy of the information presented.
+Assessment:
+
+The "Exploring Blockchain Types" assignment will be assessed based on the following criteria:
+
+Content Accuracy: Are the definitions, characteristics, and details about the assigned blockchain type accurate and well-researched?
+
+Depth of Analysis: Does the report provide a comprehensive understanding of the blockchain type, including its advantages, disadvantages, and use cases?
+
+Clarity and Presentation: Is the report well-organized, clear, and easy to understand? Are citations provided where necessary?
+
+Relevance of Examples: Are real-world examples relevant and effectively used to illustrate key points?
+
+Peer Review Participation (if applicable): Did the student actively participate in the peer review process, providing constructive feedback to peers?

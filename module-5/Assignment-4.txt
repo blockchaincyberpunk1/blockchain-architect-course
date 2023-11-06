@@ -1,0 +1,36 @@
+Layer 2 Solution Design (Project)
+
+Objective: Challenge students to design a Layer 2 scaling solution.
+
+Instructions:
+
+In this assignment, students will tackle the challenge of designing a Layer 2 scaling solution for a complex blockchain use case. Layer 2 solutions are critical for enhancing the scalability of blockchain networks by moving certain operations off-chain while still maintaining the security and trustworthiness of the main blockchain. By completing this project, students will deepen their understanding of Layer 2 technologies and their practical applications.
+
+Requirements:
+
+Complex Use Case:
+
+Present students with a complex use case that requires significantly improved blockchain scalability. For example, you can describe a decentralized exchange (DEX) platform with high trading volumes and transaction frequency as the use case.
+Explain the scalability challenges faced by this use case and how it can benefit from a Layer 2 solution.
+Layer 2 Design Task:
+
+Task students with designing a Layer 2 scaling solution specifically tailored to address the scalability challenges of the presented use case.
+Instruct students to choose and describe one or more Layer 2 techniques, such as off-chain processing, payment channels, or state channels, to be integrated into their solution.
+Integration with Existing Network:
+
+Encourage students to consider how their Layer 2 solution will be integrated with an existing blockchain network (e.g., Ethereum, Binance Smart Chain).
+Instruct them to provide details on how the Layer 2 solution interacts with the main blockchain and handles operations off-chain.
+Architectural Diagrams:
+
+Ask students to create architectural diagrams that illustrate the components and interactions of their Layer 2 solution. Diagrams should include the main blockchain, Layer 2 components, and interactions with the complex use case.
+Detailed Explanations:
+
+Require students to provide detailed explanations of their Layer 2 solution, including how it addresses the scalability challenges, ensures security, and maintains consensus.
+Assessment:
+
+Evaluate the students' Layer 2 solution designs based on the following criteria:
+
+Alignment with Complex Use Case: Assess whether the proposed Layer 2 solution effectively addresses the scalability challenges of the presented complex use case.
+Integration Clarity: Evaluate the clarity and feasibility of the integration between the Layer 2 solution and the existing blockchain network.
+Architectural Diagrams: Examine the provided architectural diagrams for clarity, completeness, and alignment with the solution's design.
+Detailed Explanations: Review the quality of explanations regarding how the Layer 2 solution functions, ensures security, and maintains consensus.

@@ -1,0 +1,49 @@
+Smart Contract Security Audit (Code Review)
+
+Objective: Evaluate the security of a smart contract.
+
+Instructions:
+
+In this assignment, students will engage in a practical exercise to assess the security of a smart contract written in Solidity, a popular programming language for Ethereum smart contracts. As blockchain architects, it's crucial to understand the potential security vulnerabilities in smart contracts and how to address them effectively. This assignment will require students to review Solidity code, identify vulnerabilities, and propose fixes.
+
+Requirements:
+
+Smart Contract Review:
+
+Provide students with a sample Ethereum smart contract written in Solidity.
+Encourage them to conduct a thorough review of the contract code.
+Instruct students to use security analysis tools like MythX, Slither, or other appropriate tools to assist in the audit.
+Identification of Vulnerabilities:
+
+Task students with identifying potential security vulnerabilities within the smart contract.
+They should look for common issues such as reentrancy bugs, unchecked external calls, integer overflows, and more.
+Proposed Fixes:
+
+After identifying vulnerabilities, students should propose appropriate fixes for each issue.
+Encourage them to provide clear explanations for their proposed solutions.
+Security Best Practices:
+
+Emphasize the importance of adhering to security best practices for smart contract development.
+Students should consider the principles of least privilege, input validation, and defense in depth when proposing fixes.
+Documentation:
+
+Instruct students to document their findings and proposed fixes in a clear and organized manner.
+Presentation:
+
+Ask students to present their findings and proposed solutions, either through a written report or an in-class presentation.
+Discussion:
+
+After the presentations, facilitate a discussion where students can critique and discuss each other's findings and solutions.
+Peer Review:
+
+Encourage peer review, where students can provide constructive feedback on each other's security audit reports.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Identification of Vulnerabilities: Did students effectively identify potential security vulnerabilities in the smart contract?
+Proposed Fixes: Are the proposed fixes appropriate, well-reasoned, and aligned with best practices?
+Use of Tools: Did students effectively use security analysis tools to aid in the audit?
+Documentation: Is the documentation of findings and proposed solutions clear and organized?
+Presentation and Discussion: Were the findings and solutions effectively presented, and did students engage in meaningful discussions during the presentation and discussion phases?
+Peer Review: Did students provide constructive feedback during the peer review process?

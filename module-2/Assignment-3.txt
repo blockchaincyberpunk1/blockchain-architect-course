@@ -1,0 +1,51 @@
+Blockchain Security Analysis (Report)
+
+Objective: Analyze and address security concerns in blockchain technology.
+
+Instructions:
+
+In this assignment, students will dive into the critical topic of blockchain security. As blockchain architects, understanding security vulnerabilities and implementing preventive measures is paramount. This assignment will require students to research and compile information about common blockchain security vulnerabilities, analyze their potential consequences, and propose effective preventive measures.
+
+Requirements:
+
+Security Vulnerabilities Research:
+
+Assign students to research and identify common security vulnerabilities in blockchain technology.
+They should explore well-known vulnerabilities such as 51% attacks, double-spending, Sybil attacks, and others.
+Encourage students to use reputable sources, whitepapers, and case studies for their research.
+Report Composition:
+
+Instruct students to write a comprehensive report that includes:
+An introduction to the importance of blockchain security.
+Descriptions and explanations of the identified vulnerabilities.
+Examples of real-world incidents or breaches related to these vulnerabilities.
+Potential consequences of successful attacks or exploits.
+Preventive measures and best practices to mitigate these vulnerabilities.
+Preventive Measures:
+
+Emphasize the importance of proposing effective preventive measures.
+Students should explore technical, consensus-related, and organizational solutions to enhance blockchain security.
+Real-World Examples:
+
+Encourage students to provide real-world examples of blockchain security incidents.
+These examples should illustrate the potential impact of vulnerabilities and the importance of security measures.
+Clarity and Structure:
+
+Stress the importance of clear and organized report structure.
+Each vulnerability and its associated content should be presented in a structured manner.
+References:
+
+Ensure that students properly cite their sources and references.
+Submission:
+
+Collect students' report submissions.
+Assessment:
+
+Evaluate students' reports based on the following criteria:
+
+Research Depth: Did students effectively research and identify common blockchain security vulnerabilities?
+Analysis: Is there a clear analysis of the vulnerabilities, their consequences, and preventive measures?
+Real-World Examples: Did students provide relevant real-world examples to support their analysis?
+Preventive Measures: Are the proposed preventive measures well-reasoned and aligned with best practices?
+Clarity and Structure: Is the report well-structured and easy to follow?
+References: Are proper citations and references included?

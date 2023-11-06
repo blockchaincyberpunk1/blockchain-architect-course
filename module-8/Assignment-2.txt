@@ -1,0 +1,36 @@
+Attending Blockchain Conferences (Conference Report)
+
+Objective: Motivate students to attend blockchain conferences or webinars and extract valuable insights for their blockchain architect journey.
+
+Instructions:
+
+In this assignment, students will have the opportunity to attend a blockchain conference or webinar of their choice. The objective is to expose them to the latest developments, trends, and discussions in the blockchain space and encourage them to reflect on how these insights can be applied to real-world blockchain architecture.
+
+Requirements:
+
+Conference/Webinar Selection:
+
+Provide students with a list of upcoming blockchain-related conferences or webinars, either physical or virtual.
+Instruct them to choose one event that aligns with their interests or coursework.
+Conference Attendance:
+
+Students are required to attend the selected blockchain conference or webinar in its entirety.
+Encourage them to actively participate by taking notes, asking questions if possible, and engaging with speakers or fellow attendees.
+Conference Report:
+
+After attending the event, students should write a comprehensive report summarizing their experience.
+The report should include the following elements:
+Title, date, and location (virtual or physical) of the conference or webinar.
+A brief introduction to the event and its purpose.
+Summaries of the key topics, presentations, or discussions that they found most interesting or relevant.
+Any new insights, trends, or developments they learned about during the event.
+Reflection on how the conference content can be applied to real-world blockchain architecture, including potential use cases or design considerations.
+Personal opinions or observations related to the conference.
+Assessment:
+
+Evaluate students' conference reports based on the following criteria:
+
+Completeness: Ensure that the report covers all required elements, including summaries of key topics and reflections.
+Quality of Insights: Assess the depth and quality of insights gained from attending the conference or webinar.
+Reflection: Evaluate how well students connect the conference content to real-world blockchain architecture and their ability to identify potential applications.
+Communication: Consider the clarity and organization of their report, including grammar and formatting.

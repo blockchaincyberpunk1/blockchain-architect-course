@@ -1,0 +1,38 @@
+Governance Model Analysis (Research and Presentation)
+
+Objective: Encourage students to research and analyze various blockchain governance models.
+
+Instructions:
+
+Blockchain governance plays a crucial role in the decision-making processes that shape the development and evolution of blockchain networks. In this assignment, students will select a specific blockchain project and conduct an in-depth analysis of its governance model. They will explore how governance decisions are made, the mechanisms for achieving consensus on upgrades, and the impact of governance on the blockchain's development and stability.
+
+Requirements:
+
+Select a Blockchain Project:
+
+Assign each student or group of students a specific blockchain project to research. Ensure that a variety of projects are covered, such as Ethereum, Tezos, Polkadot, or others with distinct governance models.
+Governance Model Analysis:
+
+Instruct students to thoroughly research and analyze the governance model of their assigned blockchain project. They should consider the following aspects:
+How are governance decisions made? Is it through on-chain voting, off-chain discussions, or a combination?
+Who are the key stakeholders involved in governance? Identify core developers, node operators, token holders, and any other relevant parties.
+Are there formal mechanisms for proposing and approving upgrades or changes to the blockchain protocol?
+How does the governance model handle contentious decisions or disputes?
+What is the role of token holders in governance, and how are their interests represented?
+Comparative Analysis:
+
+Require students to compare and contrast the governance model of their assigned blockchain project with at least one other blockchain project. This comparative analysis should highlight similarities, differences, and the potential implications of each model.
+Presentation or Research Paper:
+
+Allow students to choose whether they want to present their findings through an in-class presentation or submit a research paper. Both formats should include clear explanations and visual aids, if applicable.
+Discussion of Impact:
+
+Ask students to discuss the impact of governance decisions on the blockchain's development, stability, and community engagement. They should provide examples of past governance decisions and their outcomes.
+Assessment:
+
+Evaluate the students' presentations or research papers based on the following criteria:
+
+Depth of Analysis: Assess the extent to which students have delved into the governance model, including its mechanisms and implications.
+Clarity of Communication: Evaluate the clarity and effectiveness of students' presentations or written reports.
+Comparative Analysis: Review the quality of the comparative analysis between the assigned blockchain project and another project.
+Discussion of Impact: Ensure that students address the impact of governance decisions on the blockchain and its community.

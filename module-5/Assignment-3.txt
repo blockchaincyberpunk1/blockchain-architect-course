@@ -1,0 +1,35 @@
+Implementing Sharding (Hands-On)
+
+Objective: Give students practical experience in implementing a sharding solution.
+
+Instructions:
+
+In this assignment, students will gain hands-on experience implementing a sharding mechanism in a simplified blockchain network. Sharding is a crucial technique for improving the scalability of blockchain systems by dividing the network into smaller, manageable segments. By completing this assignment, students will understand the technical complexities of implementing sharding and its impact on blockchain performance.
+
+Requirements:
+
+Simplified Blockchain Network:
+
+Provide students with a simplified blockchain network implementation. This implementation should include basic components like nodes, blocks, and transactions.
+Sharding Task:
+
+Assign students the task of adding a sharding mechanism to the provided blockchain network. Explain the concept of sharding and its role in improving scalability.
+Instruct students to identify a specific scalability challenge within the network (e.g., transaction throughput) that their sharding solution should address.
+Implementation and Testing:
+
+Task students with implementing the sharding mechanism within the blockchain network code. They should consider how transactions are divided into shards, how consensus is achieved within each shard, and how cross-shard communication is managed.
+Encourage students to thoroughly test their sharding implementation to ensure its functionality and performance improvements.
+Documentation:
+
+Instruct students to document the changes they made to the blockchain network code to implement sharding. The documentation should include explanations of the implemented sharding logic and any modifications to the original code.
+Code Samples:
+
+Ask students to provide code samples that illustrate the key components of their sharding implementation, such as the sharding algorithm and cross-shard communication.
+Assessment:
+
+Evaluate the students' sharding implementations based on the following criteria:
+
+Functionality: Assess the correctness and functionality of the sharding mechanism they implemented.
+Performance Improvements: Evaluate whether the sharding solution effectively addresses the scalability challenge identified in the assignment.
+Documentation: Review the quality and completeness of the documentation, including explanations of the implemented logic.
+Code Samples: Examine the provided code samples for clarity and relevance.

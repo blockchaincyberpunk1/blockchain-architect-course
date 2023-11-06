@@ -1,0 +1,29 @@
+Selecting the Right Blockchain (Decision-Making Exercise)
+
+Objective: Help students understand how to choose the appropriate blockchain architecture for a given use case.
+
+Instructions:
+
+In this assignment, students will apply their knowledge of different blockchain architectures to real-world use cases. They will be provided with a list of hypothetical use cases, each with specific requirements. The objective is to encourage students to think critically and decide which blockchain architecture (public, private, permissioned, or permissionless) is the most suitable for each use case. Students should provide justifications for their choices based on the use case requirements.
+
+Requirements:
+
+Hypothetical Use Cases:
+
+Provide students with a list of hypothetical use cases, such as supply chain management, healthcare records, gaming, or any other relevant examples.
+Include specific use case requirements, such as scalability, privacy, decentralization, and transaction speed. These requirements should vary across the different use cases.
+Decision-Making Process:
+
+Instruct students to analyze each use case and decide which blockchain architecture (public, private, permissioned, or permissionless) would be the most appropriate based on the given requirements.
+They should provide justifications for their decisions, explaining why the selected architecture aligns with the use case's needs.
+Presentation or Report:
+
+Ask students to present their decisions and justifications either in a written report or a presentation format.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Decision Quality: Did students make well-reasoned decisions for selecting the appropriate blockchain architecture for each use case?
+Justifications: Did students provide clear and convincing justifications for their choices, considering the use case requirements?
+Understanding of Blockchain Architectures: Did students demonstrate a solid understanding of the characteristics of different blockchain architectures?
+Presentation (if applicable): Assess the clarity and effectiveness of students' presentations or reports.

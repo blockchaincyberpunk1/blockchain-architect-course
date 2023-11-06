@@ -1,0 +1,37 @@
+Developing a Simple DApp (Hands-On)
+
+Objective: Give students practical experience in designing and developing decentralized applications (DApps).
+
+Instructions:
+
+In this assignment, students will gain hands-on experience in designing and developing a decentralized application (DApp) that interacts with a blockchain network, such as Ethereum. The objective is to provide them with practical exposure to DApp development by creating a simple yet functional application. Students will be assigned a basic use case and will need to design the DApp's smart contracts and user interface, deploy it on a testnet, and provide comprehensive documentation and code samples.
+
+Requirements:
+
+Use Case Assignment:
+
+Assign students a basic use case for the DApp. Examples include a voting application, a decentralized auction, or a simple token-based system. Ensure that the use case is suitable for beginners.
+Smart Contract Development:
+
+Instruct students to design and develop the smart contracts required for the DApp using Solidity (or any other relevant smart contract language).
+Encourage them to consider security best practices when writing smart contracts.
+User Interface (UI) Development:
+
+Task students with creating a user-friendly UI for the DApp. They can use web technologies like HTML, CSS, and JavaScript to build the front end.
+The UI should allow users to interact with the smart contracts (e.g., submit votes, place bids) in a straightforward manner.
+Deployment on a Testnet:
+
+Guide students through the process of deploying their DApp on a blockchain testnet (e.g., Rinkeby for Ethereum). They should deploy both the smart contracts and the UI.
+Documentation and Code Samples:
+
+Require students to provide detailed documentation that explains how to interact with their DApp. This should include clear instructions for using the UI and interacting with the smart contracts.
+Ask students to submit code samples of both the smart contracts and the UI.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Functionality: Assess the functionality of the DApp. Does it work as intended, and does it fulfill the requirements of the assigned use case?
+Security: Evaluate the security of the smart contracts. Did students follow best practices to minimize vulnerabilities?
+User Experience: Assess the user interface for usability and user-friendliness.
+Documentation: Evaluate the quality and comprehensiveness of the documentation provided.
+Code Quality: Assess the quality of the code, including readability and adherence to coding standards.

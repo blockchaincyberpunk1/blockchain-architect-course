@@ -1,0 +1,51 @@
+Custom Smart Contract Development (Project)
+
+Objective: Encourage students to design and deploy their custom smart contracts.
+
+Instructions:
+
+In this project-based assignment, students will have the opportunity to apply their knowledge of smart contract development by designing, coding, and deploying a custom smart contract that addresses a real-world use case. This assignment will enable them to gain practical experience in creating smart contracts that align with specific business or industry needs.
+
+Requirements:
+
+Use Case Selection:
+
+Allow students to choose a use case for their smart contract project. Examples of use cases include but are not limited to:
+Decentralized voting system
+Supply chain management
+Tokenization of assets (e.g., real estate, art, or commodities)
+Gaming or gambling applications
+Decentralized finance (DeFi) protocols
+Identity management and authentication
+Smart Contract Design:
+
+Instruct students to design their smart contract based on the chosen use case. They should consider the following aspects:
+Contract state variables
+Functions and methods
+Events for logging important contract actions
+Security measures and access control
+Any additional functionality specific to their use case
+Smart Contract Development:
+
+Task students with writing the Solidity code for their custom smart contract. They should adhere to best practices in smart contract development.
+Encourage them to consider security considerations, gas efficiency, and reusability of their code.
+Deployment and Testing:
+
+Instruct students to deploy their smart contract on a blockchain network of their choice. They can choose a public testnet like Rinkeby or a local development environment.
+Encourage them to thoroughly test their smart contract's functionality and security.
+Documentation:
+
+Require students to provide comprehensive documentation for their smart contract, including explanations of contract features, methods, and any special considerations.
+Presentation:
+
+Ask students to prepare a presentation in which they explain their use case, the design of their smart contract, and how it addresses the chosen problem.
+Encourage them to present their code and contract interactions during the presentation.
+Assessment:
+
+Evaluate students based on the following criteria:
+
+Smart Contract Completeness: Is the smart contract fully functional and capable of addressing the chosen use case?
+Code Quality: Is the code well-structured, adhering to best practices, and free from vulnerabilities?
+Documentation: Did students provide clear and comprehensive documentation for their smart contract?
+Presentation: How effectively did students present their use case and smart contract design during the presentation?
+Use Case Relevance: Does the smart contract effectively address the chosen real-world use case?

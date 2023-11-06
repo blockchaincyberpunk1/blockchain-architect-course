@@ -1,0 +1,41 @@
+Interoperability Protocol Implementation (Coding Project)
+
+Objective: Give students hands-on experience in implementing a blockchain interoperability protocol.
+
+Instructions:
+
+Interoperability between blockchain networks is a critical aspect of the blockchain ecosystem. In this assignment, students will have the opportunity to gain practical experience by implementing a blockchain interoperability protocol that enables communication between two separate blockchain networks.
+
+Requirements:
+
+Blockchain Networks:
+
+Provide students with access to a simplified blockchain network environment. You can use a local blockchain emulator or a testnet for this assignment.
+Ensure that there are two separate blockchain networks, Network A and Network B, for students to work with.
+Interoperability Protocol Selection:
+
+Assign each student or group of students a specific interoperability protocol or framework to implement. Examples include the Interledger Protocol (ILP), Polkadot's XCMP (Cross-Chain Message Passing), or Cosmos' IBC (Inter-Blockchain Communication).
+Make sure that the selected protocols have unique characteristics and methods for enabling blockchain interoperability.
+Implementation:
+
+Instruct students to implement the assigned interoperability protocol to facilitate communication and transaction transfer between Network A and Network B.
+Provide guidance and resources on how to set up the interoperability components within the blockchain networks.
+Documentation:
+
+Task students with documenting their implementation thoroughly. The documentation should include:
+An explanation of the chosen interoperability protocol and its key components.
+Detailed step-by-step instructions on how to set up and configure the interoperability components for both Network A and Network B.
+Code samples or snippets showcasing the implementation of the protocol.
+A demonstration of how transactions can be initiated on one network and successfully transferred and confirmed on the other network.
+Demonstration:
+
+Require students to demonstrate the functionality of their interoperability protocol by initiating transactions between Network A and Network B. They should provide video recordings or live demonstrations of the transaction flow.
+Assessment:
+
+Evaluate the students' implementations based on the following criteria:
+
+Functionality: Assess whether the implemented interoperability protocol successfully enables the transfer of transactions between Network A and Network B.
+Adherence to Protocol: Evaluate how closely the students' implementations adhere to the chosen interoperability protocol's specifications.
+Documentation Quality: Check the completeness and clarity of the documentation, ensuring that it provides sufficient instructions and code samples.
+Demonstration: Review the effectiveness of the demonstration, verifying that transactions are transferred and confirmed between the two networks as expected.
+Overall Implementation: Consider the overall quality of the implementation and its alignment with the assigned interoperability protocol.

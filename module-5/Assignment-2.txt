@@ -1,0 +1,41 @@
+Scalability Challenges Discussion (Group Presentation)
+
+Objective: Encourage students to explore scalability challenges in blockchain.
+
+Instructions:
+
+In this assignment, students will work in groups to investigate and discuss various scalability challenges that blockchain technology faces. Scalability is a critical issue for blockchain networks, as it directly impacts their ability to handle a large number of transactions and users. By researching and presenting on these challenges, students will gain insights into the complexities of blockchain scalability.
+
+Requirements:
+
+Group Formation:
+
+Divide the class into groups, with each group focusing on a specific scalability challenge. Examples of challenges include transaction throughput, network latency, and blockchain storage.
+Research and Analysis:
+
+Assign each group the task of researching their selected scalability challenge. Instruct them to explore academic papers, industry reports, and blockchain projects that address the challenge.
+Encourage groups to provide a detailed explanation of the problem, including its technical aspects and real-world implications.
+Proposed Solutions:
+
+Task each group with proposing potential solutions or strategies to mitigate the selected scalability challenge. Solutions can involve consensus algorithm improvements, sharding techniques, off-chain scaling, or any relevant approach.
+Encourage groups to discuss the advantages and disadvantages of each proposed solution.
+Presentation Preparation:
+
+Instruct each group to create a well-structured presentation summarizing their findings. Presentations should include:
+An introduction to the scalability challenge.
+An explanation of its impact on blockchain networks.
+An overview of proposed solutions.
+An analysis of the feasibility and effectiveness of these solutions.
+Visual aids (e.g., diagrams, charts) to enhance understanding.
+Group Presentation:
+
+Allocate a specific class session for group presentations. Each group should have a designated time to present their findings and engage in a Q&A session with the class.
+Assessment:
+
+Evaluate the group presentations based on the following criteria:
+
+Content Quality: Assess the depth and accuracy of the research conducted by each group.
+Clarity and Communication: Review the clarity of explanations and the effectiveness of communication during the presentation.
+Proposed Solutions: Evaluate the feasibility and relevance of the proposed solutions.
+Engagement: Consider the level of engagement and participation during the Q&A session.
+Visual Aids: Assess the use of visual aids to enhance understanding.

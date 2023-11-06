@@ -1,0 +1,35 @@
+DApp User Experience Improvement (UX/UI Design and Development)
+
+Objective: Enhance students' skills in designing user-friendly DApps.
+
+Instructions:
+
+In this assignment, students will focus on improving the user experience (UX) and user interface (UI) of an existing decentralized application (DApp). The goal is to help them understand the importance of user-centered design in blockchain application development and gain practical experience in enhancing DApp usability.
+
+Requirements:
+
+Selection of Existing DApp:
+
+Assign students to choose an existing DApp of their choice. They can select from popular DApps such as decentralized exchanges (e.g., Uniswap), blockchain games, voting platforms, or any other DApp they find interesting.
+Alternatively, students can use their previously developed DApp if they have one.
+User Experience (UX) Analysis:
+
+Instruct students to perform a thorough analysis of the chosen DApp's current user experience. They should consider aspects such as ease of use, navigation, information clarity, and overall user satisfaction.
+Encourage them to identify pain points, usability issues, or areas that can be enhanced for a better user experience.
+UX/UI Design and Development:
+
+Task students with redesigning the DApp's user interface and improving its functionality to address the identified UX issues.
+They should focus on elements such as layout, responsiveness, accessibility, and visual appeal.
+Encourage students to apply user-centered design principles and best practices to create a more intuitive and user-friendly DApp.
+Documentation and Explanation:
+
+Require students to document the changes they've made to the DApp's UX/UI design and functionality.
+Ask them to provide explanations for each improvement, detailing why the change was made and how it enhances the user experience.
+Assessment:
+
+Evaluate students' redesigned DApps based on the following criteria:
+
+Usability: Assess whether the changes have improved the overall usability of the DApp and if it is more intuitive for users.
+User-Centered Design: Consider the extent to which user-centered design principles have been applied in the improvements.
+UX/UI Quality: Evaluate the quality of the redesigned user interface in terms of aesthetics, responsiveness, and accessibility.
+Documentation: Review the completeness and clarity of the documentation provided for the changes made.

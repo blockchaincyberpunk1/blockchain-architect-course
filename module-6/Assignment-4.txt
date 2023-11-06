@@ -1,0 +1,49 @@
+Cross-Chain Smart Contract (Coding Project)
+
+Objective: Challenge students to create a cross-chain smart contract.
+
+Instructions:
+
+Cross-chain functionality is a critical aspect of blockchain architecture, enabling interoperability between different blockchain networks. In this assignment, students will be tasked with designing and implementing a cross-chain smart contract that facilitates asset transfers between two distinct blockchain networks.
+
+Requirements:
+
+Blockchain Networks:
+
+Ensure that students have access to two different blockchain networks for this assignment. For example, you can provide them with access to Ethereum and Binance Smart Chain testnets.
+Cross-Chain Smart Contract:
+
+Assign each student or group of students the task of creating a smart contract that can execute transactions between the two provided blockchain networks.
+Instruct students to design the contract to handle the transfer of assets (e.g., tokens) from one blockchain to the other.
+Encourage them to consider the following aspects when designing the contract:
+Asset locking and unlocking mechanisms.
+Validation and verification of cross-chain transactions.
+Handling of transaction fees and gas on both blockchains.
+Security measures to prevent unauthorized transfers.
+Implementation:
+
+Ask students to implement their cross-chain smart contract using Solidity (for Ethereum) and the appropriate language for the second blockchain (e.g., Solidity, Rust for Binance Smart Chain).
+Provide guidance and resources on how to connect to both blockchain networks from within the smart contract.
+Deployment and Testing:
+
+Require students to deploy their cross-chain smart contract on both blockchain networks (testnets).
+Instruct them to conduct extensive testing to ensure that the smart contract can successfully facilitate asset transfers between the two blockchains.
+Documentation:
+
+Task students with creating thorough documentation for their cross-chain smart contract. The documentation should include:
+Clear explanations of how the contract functions.
+Deployment instructions for both blockchains.
+Code snippets illustrating key contract functions.
+A transaction history or proof demonstrating successful cross-chain transfers.
+Presentation:
+
+Ask students to present their cross-chain smart contracts to the class. During the presentation, they should explain their design choices, demonstrate how asset transfers occur between the blockchains, and provide insights into the challenges they encountered.
+Assessment:
+
+Evaluate the students' cross-chain smart contracts based on the following criteria:
+
+Cross-Chain Functionality: Assess whether the implemented smart contract can effectively execute transactions between the provided blockchain networks.
+Security Measures: Review the contract for security measures that protect against unauthorized or malicious actions.
+Documentation Quality: Verify that the documentation is comprehensive and includes all necessary instructions and explanations.
+Testing: Ensure that the contract has been thoroughly tested and that the testing results demonstrate successful cross-chain asset transfers.
+Presentation: Consider the quality of the presentation, including the clarity of explanations and the ability to demonstrate the cross-chain functionality.

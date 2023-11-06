@@ -1,0 +1,38 @@
+ Performance Optimization (Coding and Benchmarking)
+
+Objective: Improve students' skills in optimizing blockchain performance.
+
+Instructions:
+
+In this assignment, students will focus on identifying and addressing performance bottlenecks in a blockchain project. Optimizing blockchain performance is crucial for enhancing scalability and ensuring that the network can handle a higher transaction throughput while maintaining low latency. By completing this assignment, students will gain hands-on experience in diagnosing and mitigating performance issues in real-world blockchain implementations.
+
+Requirements:
+
+Selection of Blockchain Project:
+
+Allow students to choose an existing blockchain project or use their previous blockchain implementation as the basis for this assignment.
+Performance Bottleneck Identification:
+
+Instruct students to thoroughly analyze their chosen blockchain project and identify specific performance bottlenecks. These bottlenecks could include slow transaction processing, high latency, or inefficient resource utilization.
+Ask students to document their findings and provide a clear description of the identified bottlenecks.
+Optimization Tasks:
+
+Task students with making optimizations to address the identified performance bottlenecks. The optimizations may involve changes to the consensus mechanism, data storage, transaction processing, or any other relevant aspects.
+Encourage students to explain the rationale behind each optimization and how it is expected to improve performance.
+Benchmarking:
+
+Instruct students to conduct benchmarking tests before and after implementing their optimizations. Benchmarking should involve measuring and recording key performance metrics, such as transaction throughput and latency.
+Students should clearly present the benchmarking methodology and the results obtained.
+Documentation and Code:
+
+Require students to document all changes made to the blockchain project, including code modifications and configuration adjustments.
+Ask them to provide code samples that illustrate the implemented optimizations.
+Assessment:
+
+Evaluate the students' performance optimization assignments based on the following criteria:
+
+Identification of Performance Bottlenecks: Assess the effectiveness of students in identifying and describing the performance bottlenecks in their chosen blockchain projects.
+Optimization Effectiveness: Evaluate the quality of the optimizations proposed and implemented, considering their potential to improve blockchain performance.
+Benchmarking: Review the benchmarking methodology, including the clarity of metrics measured and the consistency of benchmarking tests.
+Performance Improvements: Assess the degree to which the optimizations improved blockchain performance, as demonstrated by benchmarking results.
+Documentation and Code Quality: Evaluate the quality and completeness of the documentation provided, including code modifications and explanations.

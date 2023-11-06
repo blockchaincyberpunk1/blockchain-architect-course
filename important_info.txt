@@ -1,0 +1,92 @@
+Here is a list of 30 notable blockchain platforms and the programming languages commonly used for writing smart contracts on each platform:
+
+Ethereum
+
+Language: Solidity
+Binance Smart Chain (BSC)
+
+Language: Solidity (compatible with Ethereum)
+Cardano
+
+Language: Plutus (based on Haskell)
+Polkadot
+
+Language: Ink! (Rust-based)
+Tezos
+
+Language: Michelson
+Avalanche
+
+Language: Solidity (compatible with Ethereum)
+EOS
+
+Language: C++
+Tron
+
+Language: Solidity (compatible with Ethereum)
+Neo
+
+Language: NeoContract (based on C#)
+Algorand
+
+Language: Transaction Execution Approval Language (TEAL)
+Cosmos
+
+Language: Cosmos SDK (Go-based)
+Chainlink
+
+Language: Solidity (for Chainlink VRF)
+NEM
+
+Language: Java
+VeChain
+
+Language: Solidity (compatible with Ethereum)
+Ontology
+
+Language: Solidity (compatible with Ethereum)
+Qtum
+
+Language: Solidity (compatible with Ethereum)
+Filecoin
+
+Language: Rust, C
+Theta
+
+Language: Solidity (compatible with Ethereum)
+Polymath
+
+Language: Solidity (compatible with Ethereum)
+Terra
+
+Language: Rust
+Zilliqa
+
+Language: Scilla
+Celo
+
+Language: Solidity (compatible with Ethereum)
+Flow
+
+Language: Cadence
+Hedera Hashgraph
+
+Language: Solidity (compatible with Ethereum)
+Kusama
+
+Language: Ink! (Rust-based)
+IOTA
+
+Language: IOTA Smart Contracts (Rust-based)
+Ripple (XRP)
+
+Language: Codius (JavaScript, TypeScript)
+Elrond
+
+Language: Arwen (based on Rust)
+NEAR Protocol
+
+Language: AssemblyScript (TypeScript-like)
+Harmony
+
+Language: Solidity (compatible with Ethereum)

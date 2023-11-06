@@ -1,0 +1,44 @@
+Cryptographic Principles in Blockchain (Code Implementation)
+
+Objective: Apply cryptographic principles in blockchain development.
+
+Instructions:
+
+In this assignment, students will gain hands-on experience with cryptographic principles commonly used in blockchain technology. They will be provided with a set of cryptographic challenges related to blockchain, and their task is to implement cryptographic functions or algorithms in a programming language of their choice. This assignment will help students understand how cryptography plays a crucial role in securing blockchain networks.
+
+Requirements:
+
+Cryptographic Challenges:
+
+Provide students with a list of cryptographic challenges related to blockchain technology. These challenges may include tasks such as:
+Hashing data using cryptographic hash functions (e.g., SHA-256).
+Generating public-private key pairs and digital signatures.
+Verifying digital signatures.
+Implementing encryption and decryption for secure communication.
+Ensure that each challenge is well-defined and accompanied by clear instructions.
+Code Implementation:
+
+Instruct students to choose a programming language (e.g., Python, Solidity) and implement solutions for the cryptographic challenges provided.
+Encourage students to write clean and well-documented code, explaining the cryptographic principles applied in each solution.
+Documentation:
+
+Require students to create documentation that includes explanations of the cryptographic principles used in their code. This documentation should serve as a guide for understanding the code's functionality.
+Testing:
+
+Encourage students to thoroughly test their cryptographic implementations to ensure correctness.
+Submission:
+
+Students should submit their code implementations along with the accompanying documentation.
+Assessment:
+
+The "Cryptographic Principles in Blockchain" assignment will be assessed based on the following criteria:
+
+Correctness: Are the cryptographic functions implemented correctly, achieving the desired outcomes as per the challenges?
+
+Code Quality: Is the code well-structured, well-documented, and adhering to best coding practices?
+
+Explanation of Principles: Does the documentation effectively explain the cryptographic principles applied in the code?
+
+Testing and Verification: Has the student tested their code to verify its correctness and functionality?
+
+Adherence to Instructions: Did the student follow the provided instructions and meet the requirements of each challenge?
